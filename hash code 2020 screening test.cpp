@@ -72,7 +72,7 @@ int main(){
 	cout<<"the output"<<endl;
 	cout<<p1<<endl;
 	//cout<<v2[1][5]<<endl;
-	for(int i7=0;i7<b;i7++){
+	for(int i7=0;i7<p1;i7++){
 		cout<<v5[i7][0]<<v5[i7][1]<<endl;
 		for(int i8=0;i8<v5[i7][1];i8++){
 			cout<<v5[i7][i8+2];
